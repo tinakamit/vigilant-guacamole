@@ -14,3 +14,17 @@ The goal of this lab was to practice using Nmap to identify open ports and under
 ## Sample Command
 ```bash
 nmap -A scanme.nmap.org
+## What the Command Does
+- Scans the target host
+- Detects open ports
+- Attempts service and version detection
+- Provides detailed information about the target system
+
+## Skills Demonstrated
+- Network scanning
+- Port identification
+- Service enumeration
+- Cybersecurity documentation
+
+## Disclaimer
+This project was completed for educational purposes using authorized testing targets.
